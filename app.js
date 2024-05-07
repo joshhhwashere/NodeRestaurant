@@ -8,7 +8,7 @@ const RestaurantFood = [
     },
     {
         category: 'Platos',
-        items: ['Langosta', 'Fideo', 'Encebollado']
+        items: ['Encebollado', 'Fideo', 'Langosta']
     },
     {
         category: 'Postre',
