@@ -3,16 +3,16 @@ const app = express();
 
 const RestaurantFood = [
     {
-        category: 'Entradas',
-        items: ['Ensalada César', 'Sopa de Tomate', 'Empanadas']
+        category: 'Entrada',
+        items: ['Sopa', 'Sanduche', 'Ensalada']
     },
     {
-        category: 'Platos Principales',
-        items: ['Lomo Saltado', 'Pasta Alfredo', 'Sushi']
+        category: 'Platos',
+        items: ['Langosta', 'Fideo', 'Encebollado']
     },
     {
-        category: 'Postres',
-        items: ['Tiramisú', 'Helado de Vainilla', 'Cheesecake']
+        category: 'Postre',
+        items: ['Pie', 'Torta', 'Helado']
     }
 ];
 
